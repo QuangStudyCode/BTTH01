@@ -1,0 +1,26 @@
+#head1{
+ color: aqua;   
+ font-size: 10px;
+ font-family: 'Courier New', Courier, monospace;
+ background-color: blue;
+}
+
+#head2{
+    color: gold;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+
+.head3{
+    color: blue;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: beige;
+}
+
+.head4{
+    color: black;
+    font-size: 40px;
+    background-color: blueviolet;
+}
